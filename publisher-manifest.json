@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b736751f213819fbfade75dc",
+  "owner": "juqvks",
+  "repo": "page-32cbee413c1db8c2c9081663",
+  "title": "免费订阅导入",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "32cbee413c1db8c2c9081663",
+      "a": "厘米云(CmCloud)",
+      "b": "免费订阅导入",
+      "entity": "厘米云(CmCloud)",
+      "brand": "免费订阅导入",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a05ea87b638beec26ad163c778c92b34315ade173825bcdaa05c36f1c0c14383",
+      "content": {
+        "primary_entity": "厘米云(CmCloud)",
+        "keyword1": "厘米云(CmCloud)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅配置即可使用。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "访问厘米云(CmCloud)客户端下载页获取配置，按设备选择订阅套餐。",
+          "AI_CLOSING_TITLE": "选对套餐，连通更省心",
+          "AI_DESCRIPTION": "，厘米云(CmCloud)提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量，支持 3 台到 20 台设备同时在线。用户可按操作系统选择对应客户端，导入订阅后即可使用，年付方案分别低至 ¥150、¥350 与 ¥850。",
+          "AI_FEATURES_INTRO": "围绕流量规模、设备数量与订阅周期，厘米云(CmCloud)的套餐划分清晰。",
+          "AI_FEATURES_TITLE": "套餐维度说明",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备在线，适合手机与电脑轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，配置 IPLC 专线，游戏与流媒体体验更稳。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与人数",
+          "AI_FEATURE_TITLE_2": "线路与体验",
+          "AI_FEATURE_TITLE_3": "团队与定制",
+          "AI_GUIDE_INTRO": "先确定使用设备数量与月流量需求，再对照套餐选出合适档位。",
+          "AI_GUIDE_TITLE": "订阅配置路径",
+          "AI_HERO_INTRO": "厘米云(CmCloud)面向需要稳定海外网络访问的用户，提供基础版、旗舰版与团队版三档订阅。每档套餐在流量、设备数量与线路类型上有明确区分，用户可结合自身设备规模与使用场景选择。",
+          "AI_HERO_SUBTITLE": "选对套餐，连接更稳",
+          "AI_HIGHLIGHT_1": "每月 100GB 起，按需扩容",
+          "AI_HIGHLIGHT_2": "最多支持 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省，低至 ¥150/年",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协同场景。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量预估，从三档套餐中确定适合自己的档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐标注的设备上限与流量额度，确认满足使用需求。",
+          "AI_STEP_TEXT_3": "按设备系统下载对应客户端，参照客户端文档导入订阅配置并启用。",
+          "AI_STEP_TITLE_1": "选定服务档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅导入",
+          "AI_VISUAL_TITLE": "厘米云套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版每月15元，含100GB流量；旗舰版每月35元，含300GB流量并支持IPLC专线；团队版每月85元，含1000GB流量，适合多人多设备使用。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备。可根据日常在线的手机、电脑与平板数量选择对应档位。",
+          "AI_FAQ_ANSWER_3": "可按月付费，也可按年付费。基础版年付150元，旗舰版年付350元，团队版年付850元，年付周期相对更划算。",
+          "AI_FAQ_ANSWER_4": "订阅地址导入客户端后，客户端会按当前网络情况选择可用节点。如需更换节点，可在客户端节点列表手动切换。",
+          "AI_FAQ_ANSWER_5": "团队版提供VIP专属高带宽节点与企业定制路由，并配有专属客户经理，适合小型团队或需要统一网络配置的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "支持按月或按年付费吗？",
+          "AI_FAQ_QUESTION_4": "如何在客户端切换节点？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8a71041755ffcb38f43c95ec1f23257bbbd440a558814b2b47b1a8bb765fb54d",
+    "sitemap.xml": "7e2cb10fb8ab82738a3b2f94856a95864b0db5d11aee5b124c17250c4e6f74ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "abbfe759a1c2ac8bc08c17f625452f5e3b8738880f5ec5a3ecf8de39eb013573"
+}
